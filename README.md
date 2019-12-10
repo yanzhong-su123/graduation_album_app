@@ -1,3 +1,5 @@
+由小组协作完成
+
 # 项目名称：智能毕业纪念APP
 ## 产品说明文档
 
@@ -6,9 +8,9 @@
 | Target release    |  2019/11   |
 |  Epic   |  毕业   |
 |  Document status   |  进行中   |
-|  Document owner   |  胡凯锋   |
+|  Document owner   |  胡凯锋  苏衍中 |
 |  Designer   |  胡凯锋   |
-|  Developer   |  胡凯锋   |
+|  Developer   |  胡凯锋  苏衍中  |
 |  QA   |   胡凯锋  |
 
 ## 简介
